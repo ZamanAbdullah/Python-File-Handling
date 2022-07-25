@@ -1,0 +1,4 @@
+NAME SALARY
+abdullah 20000
+andrews 10000
+bob 40000
